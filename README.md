@@ -108,14 +108,8 @@ After starting the development server, you can view the application in your brow
 
 <h2 id="screenshots">📸 Ekran Görüntüleri | Screenshots</h2>
 
-### Ana Sayfa | Home Page
+![image](https://github.com/user-attachments/assets/f73fec5f-603a-46d5-b28f-2a2f6e0de3e6)
+![image](https://github.com/user-attachments/assets/0d676166-b092-44b6-91fa-48a5bd7b9112)
+![image](https://github.com/user-attachments/assets/bea4055b-50fc-4ba3-b720-861ce522f3e3)
+![image](https://github.com/user-attachments/assets/b7416813-cfc8-4263-9dd6-d96be0a489f4)
 
-![Ana Sayfa](/public/photos/header.webp)
-
-### En Çok Satanlar | Bestsellers
-
-![En Çok Satanlar](/public/photos/header.webp)
-
-### Değerlendirmeler | Reviews
-
-![Değerlendirmeler](/public/photos/woman.webp)
