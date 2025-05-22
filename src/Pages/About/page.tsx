@@ -6,9 +6,7 @@ import Menu from "../Menu/page";
 const AboutPage = () => {
   return (
     <>
-      <div className="w-full">
-        <Menu />
-      </div>
+  
       <div className="w-full bg-white px-6 pt-16 pb-8 md:px-10 lg:px-[12vw]">
         <div className="flex flex-col items-start justify-start min-w-[100%] mb-10">
           <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold mb-6 min-w-[80%] text-center md:text-left">
