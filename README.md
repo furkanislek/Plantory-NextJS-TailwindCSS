@@ -1,36 +1,121 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🌿 Plantory - Modern Bitki E-ticaret Platformu | Modern Plant E-commerce Platform
 
-## Getting Started
+[🔗 Canlı Demo | Live Demo](#)
 
-First, run the development server:
+## 📋 İçindekiler | Contents
+
+- [Türkçe](#tr)
+  - [Proje Hakkında](#proje-hakkında)
+  - [Teknolojiler](#teknolojiler)
+  - [Özellikler](#özellikler)
+  - [Kurulum](#kurulum)
+  - [Kullanım](#kullanım)
+- [English](#en)
+  - [About the Project](#about-the-project)
+  - [Technologies](#technologies)
+  - [Features](#features)
+  - [Installation](#installation)
+  - [Usage](#usage)
+- [Ekran Görüntüleri | Screenshots](#screenshots)
+
+<h2 id="tr">🇹🇷 Türkçe</h2>
+
+<h3 id="proje-hakkında">🌱 Proje Hakkında</h3>
+
+Plantory, modern ve şık bir tasarımla bitki severler için oluşturulmuş bir e-ticaret platformudur. Ev bitkilerinin satışı, bakım tavsiyeleri ve sürdürülebilir yaşam için çözümler sunar. Responsive tasarımı sayesinde her cihazda mükemmel görüntülenir ve kullanıcı dostu arayüzü ile alışverişi keyifli hale getirir.
+
+<h3 id="teknolojiler">💻 Teknolojiler</h3>
+
+- **Next.js 15** - React tabanlı modern web framework
+- **React 19** - Kullanıcı arayüzü için JavaScript kütüphanesi
+- **TypeScript** - Tip güvenli geliştirme
+- **Tailwind CSS 4** - Hızlı ve özelleştirilebilir stil çözümü
+
+<h3 id="özellikler">✨ Özellikler</h3>
+
+- Responsive tasarım - mobil, tablet ve masaüstü uyumlu
+- Modern ve şık kullanıcı arayüzü
+- SEO dostu yapı
+- Hızlı sayfa yüklemeleri
+- Ürün filtreleme ve arama özellikleri
+- En çok satan ürünleri görüntüleme
+- Bitki bakım tavsiyeleri
+- Kullanıcı değerlendirmeleri
+
+<h3 id="kurulum">🔧 Kurulum</h3>
 
 ```bash
+# Depoyu klonla
+git clone https://github.com/username/plantory.git
+
+# Proje dizinine git
+cd plantory
+
+# Bağımlılıkları yükle
+npm install
+
+# Geliştirme sunucusunu başlat
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<h3 id="kullanım">📘 Kullanım</h3>
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Geliştirme sunucusu başladıktan sonra, tarayıcınızda [http://localhost:3000](http://localhost:3000) adresini açarak uygulamayı görüntüleyebilirsiniz. Ana sayfada en çok satan bitkiler, hakkımızda bölümü, kullanıcı değerlendirmeleri ve daha fazlasını bulabilirsiniz.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+<h2 id="en">🇺🇸 English</h2>
 
-## Learn More
+<h3 id="about-the-project">🌱 About the Project</h3>
 
-To learn more about Next.js, take a look at the following resources:
+Plantory is an e-commerce platform created for plant lovers with a modern and elegant design. It offers sales of house plants, care advice, and solutions for sustainable living. Thanks to its responsive design, it displays perfectly on every device and makes shopping enjoyable with its user-friendly interface.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+<h3 id="technologies">💻 Technologies</h3>
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- **Next.js 15** - Modern web framework based on React
+- **React 19** - JavaScript library for user interfaces
+- **TypeScript** - Type-safe development
+- **Tailwind CSS 4** - Fast and customizable styling solution
 
-## Deploy on Vercel
+<h3 id="features">✨ Features</h3>
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Responsive design - compatible with mobile, tablet, and desktop
+- Modern and elegant user interface
+- SEO-friendly structure
+- Fast page loading
+- Product filtering and search capabilities
+- Bestseller products display
+- Plant care tips
+- User reviews
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+<h3 id="installation">🔧 Installation</h3>
+
+```bash
+# Clone the repository
+git clone https://github.com/username/plantory.git
+
+# Navigate to the project directory
+cd plantory
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+```
+
+<h3 id="usage">📘 Usage</h3>
+
+After starting the development server, you can view the application in your browser at [http://localhost:3000](http://localhost:3000). On the homepage, you can find bestselling plants, about us section, user reviews, and more.
+
+<h2 id="screenshots">📸 Ekran Görüntüleri | Screenshots</h2>
+
+### Ana Sayfa | Home Page
+
+![Ana Sayfa](/public/photos/header.webp)
+
+### En Çok Satanlar | Bestsellers
+
+![En Çok Satanlar](/public/photos/header.webp)
+
+### Değerlendirmeler | Reviews
+
+![Değerlendirmeler](/public/photos/woman.webp)
