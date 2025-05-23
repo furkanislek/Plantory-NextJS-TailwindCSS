@@ -2,7 +2,7 @@
 
 [🔗 Canlı Demo | Live Demo](https://plantory-co.vercel.app)
 
-## 📋 İçindekiler | Contents
+## 📋👀👀 İçindekiler | Contents
 
 - [Türkçe](#tr)
   - [Proje Hakkında](#proje-hakkında)
